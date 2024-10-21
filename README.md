@@ -1,5 +1,15 @@
-## Hi there 👋
+# <p align="center">Hi there 👋, I'm George</p>
+### <p align="center">A Uni student with a passion for programming and a desire to learn and improve</p>
+<br><br>
 
+* Student of the Department of Informatics and Telecommunications, University of the Peloponnese.
+
+* Currently working on my thesis, FacE-ERaTA(Facial Emotion Expressiveness Rating for Theatrical Actors), a gamified app meant to rate the facial expression of emotions
+of actors and help them train and improve.
+
+- Working on scripts in C# for "Space Engineers" on the side
+
+- Reach me at: g.xyrafis@outlook.com.gr
 <!--
 **gxyrafis/gxyrafis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
