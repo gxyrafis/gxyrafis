@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋, I'm George</p>
+# <p align="center">Hi there 👋 I'm George</p>
 ### <p align="center">A Uni student with a passion for programming and a desire to learn and improve</p>
 <br><br>
 
